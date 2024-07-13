@@ -1,4 +1,3 @@
-// src/Price.js
 import React from 'react';
 import product from '../product';
 
